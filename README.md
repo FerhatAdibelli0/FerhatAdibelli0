@@ -12,7 +12,7 @@
 ### Connect with me:
 
 [<img align="left" alt="ferhatadibelli| LinkedIn" width="30px" src="https://www.flaticon.com/de/kostenlose-icons/linkedin" />][linkedin]
-<a href="mailto:ferhatadibelli9@gmail.com"><img align="left" alt="ferhat | GMail" width="30px" src="https://image.flaticon.com/icons/png/512/732/732200.png" />[<img align="left" alt="ferhat | StackOverFlow" width="30px" src="https://image.flaticon.com/icons/png/512/2111/2111628.png" />][stackoverflow]
+<a href="mailto:ferhatadibelli9@gmail.com"><img align="left" alt="ferhat | GMail" width="30px" src="https://user-images.githubusercontent.com/75525090/159127016-3e4d9b5f-0478-4667-ab64-8a330d00bdae.png" />[<img align="left" alt="ferhat | StackOverFlow" width="30px" src="https://user-images.githubusercontent.com/75525090/159127189-fb5b27a4-5fb5-4675-9d17-71548ce63b68.png" />][stackoverflow]
 
 <br />
 <br />
