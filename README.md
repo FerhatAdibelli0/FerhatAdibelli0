@@ -1,11 +1,16 @@
 ### Hi I am Ferhat Adibelli 👋
 
-- 🔭 I’m currently working on Full-Stack projects leveraging React, Redux, React Native, Next.js, Node.js, and Python.
-- 🌱 I’m currently learning TypeScript for enhanced scalability and maintainability in Node.js applications.
-- 👯 I’m looking to collaborate on React.js and Next.js projects with a focus on dynamic, user-friendly interfaces.
-- 🥅 2025 Goals: Contribute actively to open-source projects and enhance expertise in Docker, Kubernetes, and LLM integrations.
-- ⚡ Fun fact: I spend most of my leisure time reading books, which often inspires innovative tech solutions.
-- 💻 Life Hack: Keep learning new technologies and share knowledge to help others grow.
+- 🔭 Current Focus: Driving innovation in full-stack development by utilizing React, Redux, React Native, Next.js, Node.js, and Python to deliver scalable, high-performing applications.
+
+- 🌱 Continued Growth: Enhancing expertise in TypeScript to improve the scalability, maintainability, and reliability of modern Node.js solutions.
+
+- 👯 Collaboration Opportunities: Seeking to partner on React.js and Next.js projects that prioritize dynamic, intuitive user experiences and cutting-edge front-end development strategies.
+
+- 🥅 2025 Objectives: Deepen contributions to open-source communities, advance proficiency in Docker and Kubernetes for cloud-native solutions, and integrate Large Language Models (LLMs) to elevate application intelligence.
+
+- ⚡ Personal Insight: An avid reader, I draw inspiration from literature to solve complex problems creatively, translating insights into practical, impactful tech solutions.
+
+- 💻 Guiding Principle: Stay ahead by embracing continuous learning and fostering a culture of knowledge-sharing to drive innovation and collective success.
 
 - <img src='https://github-readme-stats.vercel.app/api?username=ferhatadibelli0&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'/>
 
