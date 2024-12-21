@@ -1,11 +1,11 @@
 ### Hi I am Ferhat Adibelli 👋
 
-- 🔭 I’m currently working on Full stack projects.
-- 🌱 I’m currently learning Typescript on Nodejs
-- 👯 I’m looking to collaborate on ReactJs projects
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I waste most of my lessure time with reading books
-- 💻 Life Hack: Learn new tech and share what you have learned
+- 🔭 I’m currently working on Full-Stack projects leveraging React, Redux, React Native, Next.js, Node.js, and Python.
+- 🌱 I’m currently learning TypeScript for enhanced scalability and maintainability in Node.js applications.
+- 👯 I’m looking to collaborate on React.js and Next.js projects with a focus on dynamic, user-friendly interfaces.
+- 🥅 2025 Goals: Contribute actively to open-source projects and enhance expertise in Docker, Kubernetes, and LLM integrations.
+- ⚡ Fun fact: I spend most of my leisure time reading books, which often inspires innovative tech solutions.
+- 💻 Life Hack: Keep learning new technologies and share knowledge to help others grow.
 
 - <img src='https://github-readme-stats.vercel.app/api?username=ferhatadibelli0&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'/>
 
